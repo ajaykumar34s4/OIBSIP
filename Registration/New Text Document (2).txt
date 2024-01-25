@@ -1,0 +1,10 @@
+<htmL>
+<body bgcolor="cyan">
+<center>
+<h1>YOUR REGISTRATION IS COMPLETED.</h1>
+<h3>YOUR DETAILS HAS BEEN RECORDED IN THE DATABASE.</h3>
+<h1><i>THANK YOU.HAVE A NICE DAY.</i></h1>
+</center>
+</body>
+</html>
+
